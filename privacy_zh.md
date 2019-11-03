@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-    </style>
-  </head>
-  <body>
-    <div class='markdown-body'>
-      隐私政策 
+---
+layout: page
+title: 隐私政策
+permalink: zh_cn/privacy-policy.html
+---
 
 AceMark 尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务， AceMark 会按照本隐私权政策的规定使用和披露您的个人信息。但 AceMark 将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，AceMark 不会将这些信息对外披露或向第三方提供。 AceMark 会不时更新本隐私权政策。 
 
@@ -72,7 +67,3 @@ c) 通过 AceMark 所设cookies所取得的有关信息，将适用本政策。 
 a)  AceMark 帐号均有安全保护功能，请妥善保管您的用户名及密码信息。 AceMark 将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。  
 
 b) 在使用 AceMark 网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是 AceMark 用户名及密码发生泄露，请您立即联络 AceMark 客服，以便 AceMark 采取相应措施。
-
-    </div>
-  </body>
-</html>
