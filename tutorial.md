@@ -1,6 +1,7 @@
 ---
 layout: raw
 permalink: zh_cn/tutorial.html
+mathjax: true
 ---
 
 # 欢迎使用AceMark
