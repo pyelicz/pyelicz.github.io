@@ -43,20 +43,40 @@ AceMark 最高支持六级标题，一级标题在行首使用一个`#`，二级
 > 这是一个引用
 
 ## 数学公式
-这是一个抛物线方程
+AceMark 支持 LaTeX 语法的数学公式，例如
 
+	$$
+	f(x) = a x^2 + b x + c
+	$$
+	
+会输出一个抛物线方程
 $$
 f(x) = a x^2 + b x + c
 $$
 
-这是一个积分方程
+而下面这个表达式
+
+	$$
+	F(\omega)=\int_{-\infty}^{+\infty} {f(t)e^{-i\omega t}dt}
+	$$
+	
+会输出一个傅里积分方程
 
 $$
 F(\omega)=\int_{-\infty}^{+\infty} {f(t)e^{-i\omega t}dt}
 $$
 
+要输出矩阵也很简单，只需要
 
-矩阵
+	$$
+	\begin{bmatrix}
+	1 & x & x^2 \\
+	1 & y & y^2 \\
+	1 & z & z^2 \\
+	\end{bmatrix}
+	$$
+
+便可得到想要的效果
 
 $$
 \begin{bmatrix}
