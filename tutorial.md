@@ -60,7 +60,7 @@ $$
 	F(\omega)=\int_{-\infty}^{+\infty} {f(t)e^{-i\omega t}dt}
 	$$
 	
-会输出一个傅里积分方程
+会输出一个傅里叶变换积分方程
 
 $$
 F(\omega)=\int_{-\infty}^{+\infty} {f(t)e^{-i\omega t}dt}
