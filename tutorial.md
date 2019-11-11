@@ -57,7 +57,7 @@ AceMark 最高支持六级标题，一级标题在行首使用一个`#`，二级
 ```
 [链接标题](http://www.acemark.net)
 ```
-输出[链接标题](http://www.example.net)
+输出[链接标题](http://www.acemark.net)
 
 如果想要显示一张网络图片，方式和普通链接类似，但需要在前面加一个`!`符号。
 ```
