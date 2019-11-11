@@ -13,6 +13,7 @@ AceMark 采用[GitHub Flavored Markdown](https://github.github.com/gfm/)语法�
 
 ## 标题
 AceMark 最高支持六级标题，一级标题在行首使用一个`#`，二级标题使用两个`##`，以此类推。如下：
+
 	# 一级标题
 	## 二级标题
 	### 三级标题
