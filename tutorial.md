@@ -5,11 +5,11 @@ mathjax: true
 ---
 
 # 欢迎使用AceMark
-AceMark 致力于打造一款易用、专业的 Markdown 编辑工具。
+AceMark 致力于打造一款易用、专业的 Markdown 工具。
 
 ## 什么是 Markdown?
 Markdown 是一种轻量级的标记语言。它允许人们使用易读易写的纯文本格式编写文档，并支持图片、图表、数学公式等，然后转换成有效的 HTML 文档。
-AceMark 采用[GitHub Flavored Markdown](https://github.github.com/gfm/)语法（简称 GFM），并支持一些扩展语法。下面我们来熟悉下 AceMark 的常用标记说明。 
+AceMark 采用 [GitHub Flavored Markdown](https://github.github.com/gfm/) 语法（简称 GFM），并支持一些扩展语法。下面我们来熟悉下 AceMark 的常用标记说明。 
 
 ## 标题
 AceMark 最高支持六级标题，一级标题在行首使用一个`#`，二级标题使用两个`##`，以此类推。如下：
@@ -41,6 +41,18 @@ AceMark 最高支持六级标题，一级标题在行首使用一个`#`，二级
 	
 效果：
 > 这是一个引用
+
+## 链接
+```
+[链接标题](http://www.acemark.net)
+```
+输出[链接标题](http://www.example.net)
+
+如果想要显示一张图片
+```
+![图片标题](http://www.acemark.net/img/icon.jpg)
+```
+![图片标题](http://www.acemark.net/img/icon.jpg)
 
 ## 表格
 通过下面的标记，就可以输出一份表格
