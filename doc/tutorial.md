@@ -11,9 +11,17 @@ AceMark 致力于打造一款易用、专业的 Markdown 工具。
 
 ## 什么是 Markdown?
 
-Markdown 是一种轻量级的标记语言。它允许人们使用易读易写的纯文本格式编写文档，并支持图片、图表、数学公式等，然后转换成有效的 HTML 文档。
-AceMark 采用 [GitHub Flavored Markdown](https://github.github.com/gfm/) 语法（简称 GFM），并支持一些扩展语法。下面我们来熟悉下 AceMark 的常用标记说明。 
+Markdown 是一种轻量级的标记语言。它允许人们使用易读易写的纯文本格式编写文档，并支持图片、图表、数学公式等，然后转换成有效的 HTML 文档。AceMark 采用 [GitHub Flavored Markdown](https://github.github.com/gfm/) 语法（简称 GFM），并支持一些扩展语法。下面我们来熟悉下 AceMark 的常用标记说明。 
 
+为了方便导航，我们在这里插入目录。插入目录的语法如下：
+
+```
+[toc]
+```
+
+这是输出的目录：
+
+{:toc}
 
 ## 标题
 
