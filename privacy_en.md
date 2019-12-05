@@ -100,6 +100,5 @@ permalink: en/privacy-policy.html
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-        <li>By email: support@acemark.net</li>
-          
-        </ul>
+ <li>By email: support@acemark.net</li>
+</ul>
