@@ -1,6 +1,6 @@
 ---
 layout: raw
-permalink: [en_US/privacy-policy.html, en/privacy-policy.html]
+permalink: en/privacy-policy.html
 ---
 
 <h1>Privacy Policy</h1>
