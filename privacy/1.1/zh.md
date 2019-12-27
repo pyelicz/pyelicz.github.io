@@ -3,7 +3,7 @@ layout: raw
 permalink: 1.1/zh/privacy-policy.html
 ---
 
-<h1>隐私权政策</h1>
+<h1>隐私政策</h1>
 
 <p><b>本隐私政策自2019年12月28日起正式生效。</b></p>
 
