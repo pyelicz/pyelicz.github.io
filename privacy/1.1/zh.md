@@ -33,7 +33,7 @@ permalink: 1.1/zh/privacy-policy.html
 <p>当您通过移动设备访问服务时，我们可能会自动收集某些信息，包括但不限于您使用的移动设备的类型，移动设备的唯一ID，移动设备的IP地址，移动操作系统，您使用的移动Internet浏览器的类型，唯一的设备标识符和其他诊断数据（“使用数据”）。</p>
 
 <h4>跟踪和Cookies数据</h4>
-<p>我们使用Cookies和类似的跟踪技术来跟踪我们服务上的活动并保存某些信息。</ p>
+<p>我们使用Cookies和类似的跟踪技术来跟踪我们服务上的活动并保存某些信息。</p>
 <p>Cookies是具有少量数据的文件，其中可能包含匿名唯一标识符。 Cookies从网站发送到您的浏览器，并存储在您的设备上。跟踪技术还使用信标，标签和脚本来收集和跟踪信息以及改进和分析我们的服务。</p>
 <p>您可以指示浏览器拒绝所有Cookies或指出何时发送Cookies。但是，如果您不接受Cookies，则可能无法使用我们服务的某些部分。您可以在<a href="https://privacypolicies.com/blog/how-to-delete-cookies/">浏览器Cookies指南</a>中了解更多有关如何管理Cookies的信息。</p>
 <p>我们使用的Cookies的示例：</p>
