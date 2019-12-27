@@ -14,7 +14,14 @@ Markdown is a lightweight markup language. It allows people to write documents i
 
 To facilitate navigation, we insert the table of content here:
 
+```
 [toc]
+```
+
+This is the output：
+
+* TOC 
+{:toc}
 
 ## Title
 
