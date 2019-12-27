@@ -1,3 +1,9 @@
+---
+layout: raw
+permalink: doc/readme/en.html
+mathjax: true
+---
+
 # Welcome to AceMark
 
 AceMark is an easy-to-use, professional Markdown authoring tool.
