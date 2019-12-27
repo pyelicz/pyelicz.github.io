@@ -155,10 +155,10 @@ Output:
 
 ```go
 func Fibonacci (n int) int {
-    if n <= 1 {
-        return n
-    }
-    return Fibonacci (n-1) + Fibonacci (n-2)
+    if n <= 1 {
+        return n
+    }
+    return Fibonacci (n-1) + Fibonacci (n-2)
 }
 ```
 
@@ -175,8 +175,8 @@ Output:
 
 ```javascript
 function Fibonacci (num) {
-    if (num <= 1) return 1;
-    return Fibonacci (num-1) + Fibonacci (num-2);
+    if (num <= 1) return 1;
+    return Fibonacci (num-1) + Fibonacci (num-2);
 }
 ```
 
@@ -199,13 +199,13 @@ Output:
 
 ```lua
 local function Fibonacci (n)
-    local function doFibonacci (n, ret1, ret2)
-        if (n <= 1) then
-            return ret2
-        end
-        return doFibonacci (n-1, ret2, ret1 + ret2)
-    end
-    return doFibonacci (n, 1, 1)
+    local function doFibonacci (n, ret1, ret2)
+        if (n <= 1) then
+            return ret2
+        end
+        return doFibonacci (n-1, ret2, ret1 + ret2)
+    end
+    return doFibonacci (n, 1, 1)
 end
 ```
 
