@@ -52,7 +52,8 @@ We can insert a footnote [^footnote] here.
 ## Quote
 
     > This is a quote
-    
+
+
 effect:
 
 > This is a quote
