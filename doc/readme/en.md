@@ -6,7 +6,7 @@ mathjax: true
 
 # Welcome to AceMark
 
-AceMark is an easy-to-use, professional Markdown authoring tool.
+AceMark is an easy-to-use, professional Markdown writing tool.
 
 ## What is Markdown?
 
