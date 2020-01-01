@@ -3,7 +3,7 @@
 <p> AceMark（And "we", "our" or "this app" mentioned below.）is a network product provided by the main company.
     </br>The product name： AceMark    </br>Product category：app        </br>If you decide to use the services provided by our products, this agreement shall inform us how to collect, use and disclose the privacy of users.
     </br></p><p><strong>If you choose to use the services provided by us, you agree to collect and use the information related to this policy. The personal information we collect is used to provide and improve services. Unless otherwise stated in this privacy policy, we will not use or share your information with anyone.</strong></p>
-<p>Unless otherwise specified in this privacy policy, terms used in this privacy policy have the same meaning as our terms and conditions.Can be inAceMarkIn the access。</p>
+<p>Unless otherwise specified in this privacy policy, terms used in this privacy policy have the same meaning as our terms and conditions, which are accessible in AceMark.</p>
 
 <h3 class="title-l1" >1. Collect information</h3>
 <p class="g-para">We collect some or all of the information you provide to us, as well as data about your use of the website and applications, but we will mainly use the collected data to provide you with satisfactory services and improve your use experience.</p>
