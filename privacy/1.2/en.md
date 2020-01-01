@@ -25,7 +25,7 @@
 <li>Provide analytical or valuable information so that we can improve our services</li>
 <li>Monitor service usage</li>
 <li>Detect, prevent and solve technical problems</li>
-When you access services from your mobile device, we may automatically collect certain information, including but not limited to, you are using a mobile device type, mobile device ID, only the IP address of the mobile devices, mobile operating system, you use the mobile Internet browser types, unique device identifier and other diagnostic data (use "data").</p>
+When you access services from your mobile device, we may automatically collect certain information, including but not limited to, your mobile device type, mobile device ID, only the IP address of the mobile device, mobile operating system, your mobile Internet browser types, unique device identifier and other diagnostic data ("usage data").</p>
 
 
 <h3 class="title-l1" >3. Information storage</h3>
