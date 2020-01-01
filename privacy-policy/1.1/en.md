@@ -4,8 +4,8 @@ layout: raw
 
 <p><strong>Effective Date：2020-01-01</strong></p>
 <p>AceMark（"we", "us", "our" or "this app" mentioned below）is an internet product provided by the main company.
-<br>The product name： AceMark    
-<br>Product category：app        
+<br>The product name: AceMark    
+<br>Product category: app        
 <br>If you decide to use the services provided by our products, this agreement shall inform us how to collect, use and disclose the privacy of users.</p>
 
 <p><strong>If you choose to use the services provided by us, you agree to collect and use the information related to this policy. The personal information we collect is used to provide and improve services. Unless otherwise stated in this privacy policy, we will not use or share your information with anyone.</strong></p>
