@@ -17,7 +17,7 @@
 <li>Address details</li>
 
 <h3 class="title-l1" >2. How to use the collected information</h3>
-<p> AceMarkUse the collected data for some or all of the following purposes:</p>
+<p> AceMark use the collected data for some or all of the following purposes:</p>
 <li>Provide and maintain services</li>
 <li>Notify you of changes to our services</li>
 <li>Allows you to participate in the interactive functions of our services at the time of selection</li>
@@ -37,7 +37,7 @@ When you through the mobile device access service, we may automatically collect 
     </br>By agreeing to this privacy policy and then submitting such information, you agree to the transfer.
 </p>
 <h4 class="title-l1" >3.3 data disclosure</h4>
-<p> AceMarkMay disclose your personal information in good faith, believing that such action is necessary:
+<p> 
 <li>Perform legal obligation</li>
 <li>Protect and defend the rights or property of the software</li>
 <li>Prevent or investigate possible misconduct related to services</li>
