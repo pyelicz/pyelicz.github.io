@@ -55,14 +55,14 @@ When you access services from your mobile device, we may automatically collect c
 </p>
 <h3 class="title-l1" >6. Collection of information and data related to children</h3>
 <p>We attach great importance to the protection of minors' personal information. If you are a minor under the age of 14, you should make sure to get the consent of your guardian before using our service. If you are a minor under the age of 14 and under 18, you should make sure to get the consent of yourself or your guardian before using our service. If we are informed that personal data of children under the age of 14 have been collected, we will take all reasonable steps to delete such data as soon as possible. If you know that your child provided us with personal information without your consent, please contact us.</p>
-<h3 class="title-l1" >7.cookie</h3>
-<p>We use cookies and similar tracking techniques to track activity on our services and retain certain information.
-    </br/>A Cookie is a file that contains a small amount of data and may contain an anonymous unique identifier. Cookies are sent from the web site to your browser and stored on your device. Other tracking techniques such as beacons, tags, and scripts are used to collect and track information and to improve and analyze our services.
-    </br>You can instruct your browser to reject all cookies or indicate when to send cookies. However, if you do not accept cookies, you may not be able to use some parts of our service.
-    </br>Example Cookie we used:
-<li>A session Cookie. We use Session Cookies to run our services.</li>
-<li>Preference Cookie. We use the preference Cookie to remember your preferences and various Settings.</li>
-<li>Security Cookies. We use secure cookies for security reasons.</li>
+<h3 class="title-l1" >7. Cookies</h3>
+<p>We use Cookies and similar tracking techniques to track activity on our services and retain certain information.
+    </br/>Cookies are files that contains a small amount of data and may contain an anonymous unique identifier. Cookies are sent from the web site to your browser and stored on your device. Other tracking techniques such as beacons, tags, and scripts are used to collect and track information and to improve and analyze our services.
+    </br>You can instruct your browser to reject all Cookies or indicate when to send Cookies. However, if you do not accept Cookies, you may not be able to use some parts of our service.
+    </br>Example Cookies we used:
+<li>Session Cookies. We use Session Cookies to run our services.</li>
+<li>Preference Cookies. We use the Preference Cookies to remember your preferences and various Settings.</li>
+<li>Security Cookies. We use Security Cookies for security reasons.</li>
 <h3 class="title-l1" >8. Terms of service of the third party</h3>
 
 
