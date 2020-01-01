@@ -37,7 +37,7 @@ When you access services from your mobile device, we may automatically collect c
     </br>By agreeing to this privacy policy and then submitting such information, you agree to the transfer.
 </p>
 <h4 class="title-l1" >3.3 data disclosure</h4>
-<p> 
+<p>AceMark may disclose your personal information in good faith, believing that such action is necessary:
 <li>Perform legal obligation</li>
 <li>Protect and defend the rights or property of the software</li>
 <li>Prevent or investigate possible misconduct related to services</li>
