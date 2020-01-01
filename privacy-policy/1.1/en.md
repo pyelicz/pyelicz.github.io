@@ -15,7 +15,7 @@ layout: raw
 <p class="g-para">We collect some or all of the information you provide to us, as well as data about your use of the website and applications, but we will mainly use the collected data to provide you with satisfactory services and improve your use experience.</p>
 <h4 class="title-l1" >1.1 collection of equipment and technical information</h4>
 <p>We may collect the data you need to use our application, and we can maintain and analyze the functionality of the application and personalize the content of the application.
-    </br>We automatically get some information about your device, including IP address, country code, time zone session start/stop time; IDFVs, language; Network status (wireless, etc.), browser plug-in type and version; Platform, SDK version, timestamp; Technical device information (such as device model and name, operating system name and version, CPU information, storage size, screen size, firmware, application software API key identifier, push notification token). While this information (such as IDFV, IP address) may uniquely identify your device, this information does not personally identify you. Some legislation (such as the United States) can uniquely identify your device as a personal information processing device.</p>
+    <br>We automatically get some information about your device, including IP address, country code, time zone session start/stop time; IDFVs, language; Network status (wireless, etc.), browser plug-in type and version; Platform, SDK version, timestamp; Technical device information (such as device model and name, operating system name and version, CPU information, storage size, screen size, firmware, application software API key identifier, push notification token). While this information (such as IDFV, IP address) may uniquely identify your device, this information does not personally identify you. Some legislation (such as the United States) can uniquely identify your device as a personal information processing device.</p>
 <h4 class="title-l1" >1.2 routine personal information collection</h4>
 <p>When using our services, we may require you to provide us with certain personally identifiable information (" personal data ") that can be used to contact or identify you. Personally identifiable information may include but not be limited to:</p>
 <li>Mobile phone number</li>
@@ -39,8 +39,8 @@ When you access services from your mobile device, we may automatically collect c
 <p>Data security is important to us, but remember that no security measure is perfect or impermeable. While we strive to protect your personal data in a commercially acceptable manner, we cannot guarantee its absolute security.</p>
 <h4 class="title-l1" >3.2 data transmission</h4>
 <p>Your information (including personal data) may be transferred to computers outside your state, province, country or other government jurisdiction, and data protection laws for those computers may differ from data protection laws in your jurisdiction.
-    </br>If you are located outside China and choose to provide information to us, please note that we transfer data (including personal data) to China and process it in China.
-    </br>By agreeing to this privacy policy and then submitting such information, you agree to the transfer.
+    <br>If you are located outside China and choose to provide information to us, please note that we transfer data (including personal data) to China and process it in China.
+    <br>By agreeing to this privacy policy and then submitting such information, you agree to the transfer.
 </p>
 <h4 class="title-l1" >3.3 data disclosure</h4>
 <p>AceMark may disclose your personal information in good faith, believing that such action is necessary:
@@ -64,8 +64,8 @@ When you access services from your mobile device, we may automatically collect c
 <h3 class="title-l1" >7. Cookies</h3>
 <p>We use Cookies and similar tracking techniques to track activity on our services and retain certain information.
     </br/>Cookies are files that contain a small amount of data and may contain an anonymous unique identifier. Cookies are sent from the web site to your browser and stored on your device. Other tracking techniques such as beacons, tags, and scripts are used to collect and track information and to improve and analyze our services.
-    </br>You can instruct your browser to reject all Cookies or indicate when to send Cookies. However, if you do not accept Cookies, you may not be able to use some parts of our service.
-    </br>Example Cookies we used:
+    <br>You can instruct your browser to reject all Cookies or indicate when to send Cookies. However, if you do not accept Cookies, you may not be able to use some parts of our service.
+    <br>Example Cookies we used:
 <li>Session Cookies. We use Session Cookies to run our services.</li>
 <li>Preference Cookies. We use the Preference Cookies to remember your preferences and various settings.</li>
 <li>Security Cookies. We use Security Cookies for security reasons.</li>
@@ -77,15 +77,15 @@ When you access services from your mobile device, we may automatically collect c
   </p>
 <h3 class="title-l1" >9. Statistical analysis</h3>
 <p>Our products use third-party in-app payment, you need to agree with the privacy policy provided by the third-party service providers;
-    </br>Link to the privacy policy of the third-party service provider used by the application:
+    <br>Link to the privacy policy of the third-party service provider used by the application:
     </p>
 <h3 class="title-l1" >10.Exit</h3>
 <p>In accordance with this privacy policy, you may uninstall all applications from each of your devices and discontinue use of this site, thereby forever choosing to remain free from any future collection of your personal information within the software.</p>
 <h3 class="title-l1" >11.Support</h3>
 <p>If you have any questions about this privacy policy, please contact us:
-    </br>By email:support@acemark.net    </br>By link:    </br>By telephone:</p>
+    <br>By email:support@acemark.net    <br>By link:    <br>By telephone:</p>
 <h3 class="title-l1" >12. Changes to this privacy policy</h3>
 <p>We may update our privacy policy from time to time. We will notify you of any changes by Posting a new privacy policy on this page.
-    </br>It is recommended that you review this privacy policy periodically for any changes. Changes to this privacy policy take effect when published on this page.</p>
+    <br>It is recommended that you review this privacy policy periodically for any changes. Changes to this privacy policy take effect when published on this page.</p>
 
 <!--英文区文字结束-->
