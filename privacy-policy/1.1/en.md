@@ -1,6 +1,7 @@
---------------------
+---
 layout: raw
---------------------
+permalink: privacy-policy/1.1/en.html
+---
 
               <!--英文区文字开始-->
 <p><strong>Effective Date：2020-01-01</strong></p>
