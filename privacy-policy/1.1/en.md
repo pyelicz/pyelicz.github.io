@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <body>
+--------------------
+layout: raw
+--------------------
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
-
-		  <div class="post-content">
-		    
-              
               <!--英文区文字开始-->
 <p><strong>Effective Date：2020-01-01</strong></p>
 <p>AceMark（And "we", "our" or "this app" mentioned below）is a network product provided by the main company.
@@ -98,17 +91,5 @@ When you access services from your mobile device, we may automatically collect c
     </br>It is recommended that you review this privacy policy periodically for any changes. Changes to this privacy policy take effect when published on this page.</p>
 
 <!--英文区文字结束-->
-
-              
-              
-		  </div>
-
-		</article>
-      </div>
-    </main>
-
-  </body>
-
-</html>
 
 
