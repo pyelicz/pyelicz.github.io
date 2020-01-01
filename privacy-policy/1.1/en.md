@@ -3,7 +3,7 @@ layout: raw
 ---
 
 <p><strong>Effective Date：2020-01-01</strong></p>
-<p>AceMark（And "we", "our" or "this app" mentioned below）is a network product provided by the main company.
+<p>AceMark（"we", "us", "our" or "this app" mentioned below）is a network product provided by the main company.
 <br>The product name： AceMark    
 <br>Product category：app        
 <br>If you decide to use the services provided by our products, this agreement shall inform us how to collect, use and disclose the privacy of users.</p>
