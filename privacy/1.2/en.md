@@ -61,7 +61,7 @@ When you access services from your mobile device, we may automatically collect c
     </br>You can instruct your browser to reject all Cookies or indicate when to send Cookies. However, if you do not accept Cookies, you may not be able to use some parts of our service.
     </br>Example Cookies we used:
 <li>Session Cookies. We use Session Cookies to run our services.</li>
-<li>Preference Cookies. We use the Preference Cookies to remember your preferences and various Settings.</li>
+<li>Preference Cookies. We use the Preference Cookies to remember your preferences and various settings.</li>
 <li>Security Cookies. We use Security Cookies for security reasons.</li>
 <h3 class="title-l1" >8. Terms of service of the third party</h3>
 
