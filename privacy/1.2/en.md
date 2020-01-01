@@ -1,6 +1,6 @@
 <!--英文区文字开始-->
 <p><strong>Effective Date：2020-01-01</strong></p>
-<p> AceMark（And "we", "our" or "this app" mentioned below.）is composed of main bodyThe companyThe network product that offers。
+<p> AceMark（And "we", "our" or "this app" mentioned below.）is a network product provided by the main company.
     </br>The product name： AceMark    </br>Product category：app        </br>If you decide to use the services provided by our products, this agreement shall inform us how to collect, use and disclose the privacy of users.
     </br></p><p><strong>If you choose to use the services provided by us, you agree to collect and use the information related to this policy. The personal information we collect is used to provide and improve services. Unless otherwise stated in this privacy policy, we will not use or share your information with anyone.</strong></p>
 <p>Unless otherwise specified in this privacy policy, terms used in this privacy policy have the same meaning as our terms and conditions.Can be inAceMarkIn the access。</p>
